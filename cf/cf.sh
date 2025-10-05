@@ -49,14 +49,14 @@ else
 echo "当前网络仅支持IPV4"
 fi
 rm -rf 6.csv 4.csv
-echo "甬哥Github项目  ：github.com/yonggekkk"
-echo "甬哥Blogger博客 ：ygkkk.blogspot.com"
-echo "甬哥YouTube频道 ：www.youtube.com/@ygkkk"
+echo "TG频道：https://t.me/CanYing_UA"
 echo
 echo "如果提示：运行出错，请检查网络依赖环境！！！请先通过代理运行一次，后续只用快捷运行：bash cf.sh"
 echo
+echo "首次通过代理的结果不准确，请在普通环境下再次测试！"
+echo
 echo "请选择优选类型"
-echo "1、仅IPV4优选"
+echo "1、仅IPV4优选（推荐）"
 echo "2、仅IPV6优选"
 echo "3、IPV4+IPV6优选"
 echo "4、重置配置文件"
